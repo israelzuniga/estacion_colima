@@ -1,2 +1,8 @@
+#.gitignore for dev master branch
+# branch for github pages should use another .gitignore
 fabfile.py
 Makefile
+*.pid
+*.pyc
+*.swp
+output/
